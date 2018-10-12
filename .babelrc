@@ -1,0 +1,13 @@
+{
+  "presets": ["es2015", "stage-2"],
+  "plugins": ["transform-runtime"],
+  "comments": false,
+  "ignore":[
+    "react-router-dom.js",
+    "react-dom.js",
+    "react.js",
+    "webpack-dev-server.js",
+    "webpack.js",
+    "react-responsive.js"
+  ]
+}
